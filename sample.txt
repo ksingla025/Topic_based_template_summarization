@@ -1,0 +1,213 @@
+T: go ahead and take a seat and make yourself comfortable all right well welcome{FI}
+P: thanks thanks{OTHER}
+T: um so this is our you know first time together{ST} i'm uh really excited to be working with you {GI}and first of all just wanted to check in and see like how you're feeling about um you know this first counseling session{QUO}
+P: yeah you know i'm excited i guess it's something i've never really done before so{META}{MOOD}
+T: yeah{FA}
+P: yeah 'cause so uh a little bit about kind of my family history my so my mom and my sister both suffer from anxiety{SOCIAL}{ANX}
+T: yeah{FA}
+P: um and [audio bug] doing counseling you know and have said it has helped um so yeah it's gotten kind of bad for me in the past six months or so{SOCIAL}{ANX}
+T: mm yeah{FA}
+P: um and i started taking uh lexapro uh let's see i'm probably day twelve or something{ANX}{MED}
+T: okay{FA}
+P: so that's kind of all new a little bit to me{ANX}{MED}
+T: okay {FA}well that's great that you are you know able to recognize what's going on and take you know this step to um start working toward you know getting some support with that both in the medication and then coming here as well{AF}
+P: uh-huh{META}{ANX}{MED}
+T: um so i wanted to um sort of give an overview of what we'll do you know in this session{ST}
+P: okay{META}
+T: so this being you know the first one i am really interested in getting to know more you{ST} know about you um so getting to know who you are getting to know um a bit about you mentioned some anxiety uh you know sort of the predominant reason for coming in {GI}and so a bit more about your experiences with anxiety um you know some of your history with it what it's looking like for you right now um things that you've tried to do to you know cope with it or manage it um{ST} and then discuss some of your goals as well {ST}and i also wanted to see if there's anything that you wanted to make sure we discussed today as well{EC}
+P: okay{META}
+T: anything that you're like oh i want to make sure you know we get to that{QUC}
+P: yeah i mean for me it's kind of a new experience so i don't really know exactly what to expect but yeah{META}
+T: okay yeah{FA} and well maybe at the end so at the end we'll you know debrief and process everything {ST}especially being you know this is our first session and your first time in therapy in general {REC}um i really like to adapt therapy to each person{GI} so um you know there's no offense in tinkering around in response to what may work really well for you or what might not work as well {ST}one other thing i just want to let you know before we jump in too is i'm a psychology phd student{GI} so what that means is i'm in the process of becoming a psychologist and am not yet a licensed psychologist so i'm working under the supervision of one of our psychologists here at the counseling center doctor [SUPERVISOR]{GI}
+P: okay{META}
+T: um so yeah{FA} with that said um i'm wondering if you can you know tell me a little bit about what brings you into counseling{QUO} and um you know what you're hoping to work on in our time together{QUO}
+P: okay um yeah so i'm a first year phd student here too um in econ department um so i just finished undergrad in may um and not here so moved to salt lake in july so i've been here since then um and yeah it's just kind of been uh an interesting transition because you know throughout high school i always had you know really strong kind of group of friends and then same in college um and then you know all of a sudden coming here where i don't really know anyone ^{SCHOOL}{SOCIAL}{ADJUST}
+T: yeah{FA}
+P: and you know the phd program is kind of uh i mean it's great it's a great program but you know it's only so many people in the department you can only spend so much time with them so you know i've just kind of been alone a lot more so it tends to kind of just you know put me in my thoughts you know a lot more as well um you know i've got a great family support system um my mom besides also having anxiety works for the school district as a healthcare provider so uh she's really good about you know stuff like that so you know counseling has never really been something i've been scared of or anything um but yeah kind of in this past year year and a half is when i've kind of started realizing that you know my level of stress is not normal i guess and so um yeah so then you know and the way my anxiety kind of functions i think is that um i always have a level of stress you know i have something that i'm stressing about like pretty high and so depending on what that is it's more or less bearable and so you know uh recently when i got worse was after midterms 'cause you know when i'm focusing on school it's fine that's like something i can do i do well um i like doing but so and then once i finish midterms and especially in the phd level you just have exams you have midterm and final so you're kind of like on your own so that's kind of like when it hits so then it's my stresses get a lot less tangible and a lot more just uh hard to resolve and irrational so it's kind of how how my anxiety functions i think{SCHOOL}{SOCIAL}{ANX}{ADJUST}
+T: so a lot related to these exams{REC}
+P: well so that's the thing my schoolwork itself doesn't really stress me out like i don't i'm stressed about exams i don't really feel anxious{SCHOOL}{ANX}
+T: sure{FA}
+P: but when i don't have that to stress about then i get ^{ANX}
+T: right {FA}so it's a lack of focus on ^{REC}
+P: yeah then i'll like make up stuff in my head and stuff{ANX}
+T: right {FA}sorry i misunderstood that{GI}
+P: that's fine{META}
+T: um and are there particular things you find yourself you know worrying about{QUC}
+P: i mean it's definitely the you know being scared of failure or the trajectory of my life you know so like in column one is like if i you know for example if i have had sex in the past like couple weeks or something you know and i'll be like oh my god like if she gets pregnant like i'm gonna have to drop out of school [nvv] my life will go down a horrible path you know and so it's kind of like stress like that of what the future you know what's gonna happen in the future and stuff like that so that's kind of like i guess kind of what yeah in general my anxiety's about i don't really have social anxiety although it's gotten a little worse just kind of being in a new place but in general i feel like i'm pretty apt at dealing with situations and i generally make friends pretty easily but yeah{ANX}{SELF}{PARTNER}
+T: yeah{FA} so a lot of like thinking about the worst case scenario kind of outcomes{REC}
+P: exactly exactly yeah so and then yeah it just kind of extrapolates from there so ^{ANX}
+T: so i'm wondering if you can share a little bit of what that's like for you when you're like in that mindset of really just worrying about one of those like worst possible outcomes{QUO}
+P: yeah i mean i guess it's just you know that i see like step by step you know what how my life would just kind of fall apart and it's like it's just i feel young right now you know and so i feel like if i were old i'd be okay 'cause you know it's i've lived a you know great life and so the problem is you know it's like i feel like i'm gonna spend my whole life just stressing and then you know my whole life will just pass by so it's kind of i guess a feeling{ANX}{SELF}
+T: yeah {FA}so worried that just like life will pass by and you won't find that place of enjoyment or ^{REC}
+P: yeah or well [audio break] that's kind of a secondary stress about it you know so first primarily in the forefront i'm stressing about whatever it is that will make my life fall apart but then in the back of my mind i think well if i spend every day stressing then my life is actually going behind and before i know it i'll be you know halfway through my life and i just stressed my way through it so{ANX}{SELF}
+T: mm {FA}there's this fear that the anxiety could really be like this dominating force in your life that's just there for like a long time{REC}
+P: yeah yeah{ANX}{SELF}
+T: yeah{FA}
+P: yeah so that's a yeah it's kind of how it's been so{ANX}{SELF}
+T: uh-huh yeah {FA}i'm wondering like when you experience this anxiety and you have these these thoughts um are the thoughts um like would you say it's like racing thoughts {QUC}um a lot of maybe slower but just really focusing in on the thought a lot{QUC}
+P: yeah i guess probably the latter you know just kind of long tracking it's just hard for me to like people say you know try to put that out of your mind which is like the most impossible thing for me to do you know so it's like so that's i guess if we're gonna talk about goals that's like something that i'd like to be able to do is compartmentalize and say okay something is stressing me out but it's not really something that worrying will do anything about which yo know at this point in time is kind of impossible for me to do so{ANX}
+T: well and so i have a little thought experiment um related to that sort of this control over our thoughts{GI}
+P: uh-huh{ANX}
+T: um so i'm gonna ask you to do something and then pause for a moment{ST} uh how do you feel about doing that {EC}
+P: sure{ANX}{META}
+T: okay{FA} try not to think about a pink elephant{DI} what are you thinking about right now{QUO}
+P: pink elephant{META}{ANX}
+T: yeah {FA}what do you think that might mean if you you know{QUO} so every single person that i've done that with uh thinks about a pink elephant and somebody asked me that i thought about a pink elephant {GI}uh what do you think that might mean{QUO}
+P: uh well it makes me think of the movie inception i guess you know 'cause it's the same example that they use but um yeah i mean i think you know so that's the difficulty i have you know it's like how do you i mean you can't really not think of thoughts i guess{ANX}
+T: yeah {FA}and so yeah we don't have a full control over our thoughts {GI}one of the things you know in working with clients in therapy that i like to do is change our relationship with them {GI}so we might think of things that worry us um but we can you know shape how we react to that{GI}
+P: uh-huh{ANX}{META}
+T: on some level{GI} how does that sound{QUO}
+P: i mean i guess i just yeah i don't really know how to do that{ANX}{META}
+T: yeah {FA}well and so i'm so glad that you've you know recognized that and come in as well{AF} i'm wondering if there's you know things that you've done to try to manage things so far{QUO}
+P: um well you know exercise is big{ANX}{HEALTH}{FUN}
+T: right{FA}
+P: so i try to exercise as much as possible um it's been you know normally i play soccer it's kind of my sport but i hurt my ankle in august and it's still kind of not fully healed so um so that's kind of been tough but you know i bike and stuff like that so um that so exercise helps um if nothing else just tires me out um i play a lot of chess chess is really um good for me 'cause it's you know a totally discrete and abstract and it's something that really takes you know my mind off things so you know things like that really help for sure to kind of just as a you know distraction and stuff like that i've tried meditating but it's like really hard for me so um i've never really tried for an extended period of time so{HEALTH}{ANX}{FUN}
+T: yeah {FA}it's like exercise things that might distract yourself{RES}
+P: yeah so uh yeah that's kind of the only things i really use to cope so so{ANX}{HEALTH}{FUN}
+T: and how would you say those are working{QUO}
+P: uh you know they kind of work i guess you know a little bit you know in taking lexapro it's kind of like you know it takes a while to kick in and i've recently in the past couple days i've kind of felt like i feel something you know that it's helping um it does kind of make me nauseous though which kind of sucks but um so you know i have felt recently better just 'cause i feel like it does kind of help me uh compartmentalize and like for example when i'm home recently i've had this thought where i'll you know be able to be like um okay i'm home so i don't have to stress about anything you know outside of my apartment and stuff like that 'cause like i get stressed about that when i leave my apartment so so that's nice you know i think that's a good thing to be able to do{FUN}{ANX}{MED}
+T: so you said that the lexapro helping with that{RES}
+P: yeah i think so i mean or placebo but whatever it's the same thing you know so uh so yeah that's good and then you know it's always whenever i talk to my parents that always helps too so you know or any friends and stuff like that so you know i think mostly it's like just being alone for an extended period of time is really what tends to trigger it or you know cause it{MED}{SOCIAL}{ANX}
+T: that's a great thing to recognize{SU} that really like being around other people is helpful{REC}
+P: uh-huh yeah{SOCIAL}{ANX}
+T: uh and you mentioned your parents and your friends {RES}and i'm wondering just like as part of just getting to know you a bit {GI}um like if you can share a bit about like the important people you know in sort of the important relationships in your life{QUO}
+P: i have [du] you know my family's we're really close and so mom dad uh sister brother um so my mom my sister have anxiety and my dad and my brother i don't think have it you know my dad loves uh you know he loves helping and stuff like that and you know so he'll talk about his you know anxiety but it's not really i don't really think he has anxiety but that's fine you know so i listen and stuff like that{SOCIAL}{ANX}
+T: uh-huh yeah{FA}
+P: so yeah really close with my family and my grandparents too who also live i'm from durango so my grandparents live in durango as well so i'm really close with them particularly my grandma so um so yeah you know keep in close touch with them and then you know group of so i have a group of seven friends from college and seven friends from high school so really close with both of those uh groups of friends as well so{SOCIAL}
+T: yeah{FA}
+P: but you know they're far away now so that's kind of ^{SOCIAL}
+T: yeah {FA}and is this like your first time away from colorado{QUC}
+P: uh no so i did undergrad in ohio so you know it's not really i think about being far away from family you know 'cause i've lived far away from them for a long time but you know i stay in touch with them on the phone and stuff like that so i think more it's just you know not being around a group of friends or just kind of like let down so um ^{SCHOOL}{SOCIAL}
+T: yeah {FA}what's it been like for you{QUO} 'cause that is a challenge to adapting to a new place{REC}
+P: uh-huh yeah so it's kind of been you know it's been interesting um because you know my daily routine consists of going to the department and you know i have some good friends in the department um which and i think we're planning on so right now i'm just living with a roommate who he's a good guy but we kind of don't really you know hang out and stuff like that he has a girlfriend that's always over so it's like i'm kind of just like in my own room um so we're thinking a couple of people from my cohort are thinking about getting you know a house together when our lease is up and you know when our leases end at the end of this year and i think that would be you know really nice just to be able to be with people that i have more in common with so yeah i think that would be good but you know the problem is it's hard then it's just hard to meet people outside of that kind of circle so{SOCIAL}{SCHOOL}
+T: yeah absolutely{FA} and being in a phd program it's not like you're you know have oodles of free time ^{REC}
+P: yeah exactly yeah{SCHOOL}
+T: um are there places in which you've you know tried to meet people outside of you know the department specifically{QUC}
+P: uh not really you know it's like i try to think i mean so well soccer you know play pickup twice a week and you know was starting to meet people and i got injured and i was just sucked you know and that kind of just really bummed me out because ^{SCHOOL}{SOCIAL}{MOOD}
+T: totally{FA}
+P: it's not you know when i would play soccer i don't really feel the exercise but i would literally run you know like ten miles and so it's kind of like but now it's like i have to force myself to exercise uh but chess has been good that's kind of a new uh relatively new activity for me um that i've discovered but you know online it's like you can play anytime and i get kind of that competitive fix um so that's been that's been really nice but again that's pretty solitary activity{SOCIAL}{HEALTH}{FUN}
+T: yeah{FA} i hear you saying like i want some connections here{REC}
+P: yeah i think so that'd really be helpful but you know so you know i tend to think i've had you know periods of my life so in high school well growing up you know had a big group of friends and then i studied abroad in high school in brazil for a year i had a great big group of friends so you know i've always i've never had trouble finding friends but i've also kind of always been in an environment where it was relatively easy to find friends you know and so here it's a little different and i think that might just kind of be the adjustment to kind of the you know adult world{SOCIAL}{SCHOOL}{ADJUST}
+T: yeah {FA}there's like less sort of baked in where there's those opportunities to make friends{REC}
+P: exactly yeah{SOCIAL}
+T: and maybe not as much so around like the same people every day{REC} maybe some in your department {QUC}i'm not sure{GI}
+P: yeah well i'm definitely around the same people but you know like my cohort is only there's only four of us{SOCIAL}{SCHOOL}
+T: so it's a pretty small cohort{REC}
+P: so pretty small yeah and some of the second and third years i get along with really well and stuff like that but yeah just haven't really totally connected you know i think we will um i mean we are we are good friends um but i think you know we live far apart now so it's like once we leave the department and kind of do our own things um so yeah{SCHOOL}{SOCIAL}
+T: yeah all right{FA} um and then any other sort of {QUC}you know you mentioned you know you're close with your family uh have you know close friends from high school and college{RES} i'm wondering are there any uh important aspects of you that would be that for me to know about{QUO} any like identities or things you're passionate about{QUC} or things like that{QUC}
+P: well one thing too is like i guess i kind of have this i've always loved to travel you know and so then you know sometimes i have this thought of just like hm i should just go travel or something which obviously i can't you know it's like phd program and i love what i'm doing but i kind of have this feeling it's like i'm gonna go do the phd program and then it's gonna be like tough to find a job which i want to go into academia which gives you opportunities to travel but it's just kind of sometimes i feel like i want to go do stuff so that's another thing i should probably take more advantage of is getting out and you know exploring and stuff but you know that sometimes makes me feel guilty 'cause i'm like i should be doing work right now so{SELF}{SCHOOL}{FUN}
+T: yeah {FA}and so there's i guess a common theme i'm hearing or at least a couple cases of there's things you've found helpful in the past playing soccer or exercise in general or uh like going and traveling{REC} and some of the things that you've you know found helpful in the past are things that aren't necessarily an option or there's some barriers to them right now{REC}
+P: yeah that's true so um and you know i guess i guess it's kind of a cycle too 'cause it's like when i get anxious then it's like i have to deal with it you know and i don't really feel like doing those things and so then it's like i have to get back on the program kind of so i feel like i'm kind of at that point where i do that um and so then you know so we'll see how that goes and i'm going home for thanksgiving next week so that'll be nice to go home for a few days and so yeah{ANX}{ADJUST}{FUN}
+T: yeah {FA}that sounds nice{GI} um yeah well another question i had is you know to go back to this topic of the anxiety that you're experiencing{ST} like the ways in which it's impacting you right now{QUO}
+P: um yeah you know it's like just general stress you know it makes me feel kind of more tired than i should and you know it's like i'll be sitting in class and the professor will say something and i'll be like that's really you know an interesting thing to research but then in the back of my head it's like you're not gonna research it 'cause you're gonna drop out of school or whatever it's like so that's kind of like ^{ANX}{SCHOOL}
+T: so these thoughts in your mind ^{REC}
+P: yeah and that kind of suppress the you know my passion and stuff like that so it's kind of ^{ANX}{SCHOOL}
+T: yeah {FA}i'm wondering so sometimes like uh so it's particularly in graduate school will feel like sort of like they're a fraud or a phony and just waiting to be discovered and i'm wondering that that's gonna be found it{GI} i'm wondering if you experience anything along those lines{QUC}
+P: i mean i kind of feel like um i dunno i feel like um as far as academically not so much but you know i am the youngest person in my department by like five years and it's kind of like i mean that doesn't intimidate me but it just kind of makes me think it's like why why am i the youngest why am i the only one that came straight from undergraduate to grad school it's like that doesn't really intimidate me but you know i mean five years makes a big difference so they're definitely older than i am so that's kind of but ^{SCHOOL}{SELF}{SOCIAL}
+T: i want to validate {GI}oh go ahead{EC}
+P: no i was gonna say i mean i know i can do it you know the thing that freaks me out more is that i won't be able to do it because of myself you know what i mean and so that's kind of my biggest worry i guess{SELF}{ANX}
+T: yeah{FA} i want to validate the like you know coming in being younger than everyone else {SU}so as like a little self-disclosure on my part i also you know i went into my phd program straight from undergrad and was the youngest person and i resonate with some of those feelings that you're sharing{GI} uh so i want to just validate that that it makes sense that you feel that way{SU}
+P: yeah i mean in general like school work doesn't stress me out in fact it's kind of like the one thing that makes me like you know sane kind of it's like ^{ANX}{SCHOOL}
+T: that's like your anchor {REC}of like this is no matter what else has gone on this is what i feel like i'm good at{REC}
+P: yeah well that's why you know why i'm here so ^{SCHOOL}{ANX}
+T: and yeah exactly and then it's just like it's the other stuff really that ^{REC}
+P: yeah yeah so yeah so i don't really say that school work stresses me out but it can be a secondary stress if i'm stressed about something else and then i'm like i really need to be stressed about school so but you know so ^{ANX}{SCHOOL}
+T: yeah {FA}um i'm also just wondering as part of getting to understand some of your anxiety a bit better{GI} um like what{QUO} so i hear some of these thoughts that are like self-critical thoughts like are you gonna drop out and it's like that{REC} any other thoughts like along those lines like negative things that you might say to yourself{QUC}
+P: i mean in general i feel like i like who i am i just you know scared of the future or that's kind of that's kind of my biggest thing{SELF}{ANX}
+T: yeah uh-huh yeah {FA}and i think feeling some fear about the future is you know really normal {SU}um i'm also hearing that some of these fears are really about some you know pretty sort of catastrophic or sort of worst case scenario types of outcomes{REC}
+P: yeah{ANX}
+T: uh one of the things we can do in therapy is like explore like you know like here's this thing you're worrying about like happening like what are the odds that it would happen and what are some of the possibilities besides that and if it did happen like what would that mean{GI}
+P: yeah{ANX}{META}
+T: uh i'm also wondering a bit about like what the you know when you experience this anxiety uh what that feels like in your body{QUO}
+P: uh-huh well you know definitely like heart-racing kind of and you know yeah that's uh yeah like tight chest and kind of the general{ANX}
+T: yeah{FA} those are the things that generate the most like racing heart tight chest{RES} anything else{QUC}
+P: um yeah that's kind of it you know the general symptoms i guess sometimes like can't sleep but so i dunno ^{ANX}{HEALTH}
+T: yeah{FA} it's like difficult to sleep{RES} yeah{FA} and is there anything that like when you experience this anxiety that you we've talked a bit about what you do but like in response to this more like uh somatic or bodily feelings is there anything that like helps you to take care of yourself when those are happening{QUC}
+P: uh you know i guess deep breathing but you know other than that not a whole lot you know try to do something to take my mind off it i guess you know if it's just even just watching you know t v or something ^{ANX}{FUN}
+T: totally yeah{FA} uh i mean distraction if it's the only thing you're doing sometimes that can not be the most helpful {GI}but sometimes in just a really anxious moment watching a t v show or something like that uh can be really helpful {GI}and so that's great{SU}
+P: yeah so that does help you know that's nice for sure{ANX}
+T: yeah {FA}anything else{QUC}
+P: [nvv] nah can't really think{ANX}
+T: okay {FA}let's [du] this chair so i can see the clock and just see how much time we have left{GI} um um i'm wondering if we can you know talk a bit about what your um you know some specific goals for our work together{QUO}
+P: yeah i mean like i said just you know being able to compartmentalize and kind of take each day at a time and kind of you know shelve certain fears you know that are just kind of been put back there um i don't really know what strategy to take for that you know but um ^{ANX}{META}
+T: yeah{FA} so really like developing strategies that are gonna help you to manage these thoughts and feelings of anxiety{REC}
+P: yeah yeah{ANX}{MOOD}
+T: um yeah{FA} i think that sounds like a good goal{GI}
+P: uh-huh{MOOD}{ANX}
+T: anything else that you're like i know i want to work on this{QUC}
+P: um yeah i mean i guess that's i mean i think that is kind of like the key because from there i can then you know continue to focus on my work and then i think you know it's kind of a positive cycle there and whatnot so i'd like to i guess that would kind of be the first and primary the most helpful goal so{ANX}{SCHOOL}
+T: oh yeah {FA}primary goal is definitely like you know working on ways to manage that anxiety{RES}
+P: uh-huh{ANX}{META}
+T: um any [audio cuts] things that you're like [nvv] in the course of our time together i'd like to touch on{QUC} it's okay if there's not too but i just want to ^{GI}
+P: yeah it's hard for me to ^{META}
+T: have an opening ^{GI}
+P: i mean i think that's a big enough goal you know as far as i mean ultimately that kind of is all that i really need to do other than that i feel pretty good you know i generally don't feel like depressed or anything it's just i'd like to be able to kind of clear my focus i guess{ANX}{META}
+T: yeah definitely{FA}
+P: so i guess that's kind of what's [du]{META}
+T: yeah{FA} i'm wondering if we could um you know discuss the possibility of uh doing like a little homework task or something like that between this session and the next one{QUC}
+P: sure yeah{META}
+T: um i'm wondering if there's anything that either has worked for you in the past that you don't do now or anything that you've wanted to try to help manage this anxiety{QUC}
+P: yeah gee i don't really know do you have any suggestions{ANX}{META}
+T: um so i do like to you know build off of what already has worked for you if there is if there are things that you like oh that's just been really helpful and i just don't do it anymore or things like that {GI}um as far as other things i'll say that with anxiety you know each person is different and what works well for you might you know somebody else might not find helpful and what somebody else finds helpful um might not be helpful for you{GI} um like you mentioned like you said you have mixed feelings about mindfulness for example{RES} and so that's like a perfect example of something that some people really love and they're like this is what grounds me and other people are like i hate this and you know every gradient in between{GI} um and so um one of the things we can do is um explore you know um some different things and have opportunities for you to test things out{GI} i have somewhere i think it's uh buried down here or no my [du] a bit of a mess right now but i have a sheet about swear i had a bunch of these of this um here we go{GI} um so this might be one place to start is this worksheet on so this was a list of possible ways to um shift attention away when um you know you are feeling anxious um all uh but i don't want to um well sometimes it can be helpful to really you know acknowledge that emotion and to sit with it {ADP}um and my goal or my where i'm coming from as a clinician is not necessarily to be like you shouldn't we don't want you to ever feel anxiety or anything like that{GI} um but these might this might be a place to start for things you can do when you are feeling anxiety to help you manage that emotion {ADP}um i'm wondering you know as you look at this is there anything that um stands out to you that you're like oh yeah i might like to do that{QUC}
+P: well i mean i'm seeing like a lot of these i do already but um but you know i can take a look and you know and kind of think i guess{ANX}{META}
+T: yeah{FA} is there one on here {QUC}or we could do something else too that you'd like to um try out between the session and the next session{QUC} or if you don't want to you know commit to anything too firm for you know this first session that's fine as well{EC}
+P: i mean i'm kind of like more drawn to these like mental ones so like push the situation away by leaving it for a while or like doing something kind of mentally to do that 'cause i feel like i do you know a lot of these so ^{ANX}{META}
+T: yeah {FA}so with that i [du] it sounds sort of really more [audio blip] these things would be helpful{REC}
+P: uh-huh{META}{ANX}
+T: yeah{FA} um you know with that there's something that i that's something that you could give a try at some point during the week {ADP}is um i imagine sorry{GI} i'm wondering like do you ever find that you know feelings of anxiety and either the you know the thoughts you have or some of the um more body symptoms happen at like times where like there's you know sort of not the best time for it to happen you have like other things you're trying to do in the moment{QUC}
+P: well generally i feel like it happens in the morning 'cause i think it's kind of like go to sleep not stressing and then i wake up and it's kind of all floods back in and then by the time it's like the evening i have so much you know that i've done all throughout the day i'm tired you know and then it's kind of like i'm fine so it's kind of i'd say the morning is different like the worst time of day so{ANX}
+T: okay all right{FA} um so one thing that some people find helpful is to um i think of it as like saving the emotion for later{ADP} so if you're like this morning i like to get to class or to get to campus and i don't really have time to go there right now {GI}um this idea of taking that you know anxious thought and in your mind placing it in a box and placing that box you know up on a shelf um and knowing that you'll return to it later {GI}so not saying like oh i'm gonna avoid this and lock it out but saying okay i'm acknowledging i have this emotion this feeling of anxiety about you know oh what if she got pregnant or whatever particular um anxious thought you might have and allowing yourself to both set it aside but also saying i'm gonna come back to it and then when you're in a space where you know maybe it's that night and you've gotten to the day and feel okay i've you know i'm in a better place to you know think about this now then go ahead and return to it{ADP}
+P: yeah okay that's yeah i like that idea{ANX}{META}
+T: how does that sound{QUO}
+P: that's good i'd like to i think try that that sounds good{META}{ANX}
+T: uh-huh okay{FA}
+P: cool{ANX}{META}
+T: yeah {FA}so um if you you know get a chance to try that out in the next couple weeks then um i by all means like share it you know during our next session we can sort of debrief and process what that was like for you{ST} and then you know in next sessions as well we can continue to really explore um some of those thought patterns and you know dive a little deeper into that then we might do in an initial session{ST}
+P: yeah sounds good{META}
+T: cool{FA} well at this point we have a few minutes left {ST}and so um i wanted to just you know see this being our first session together and your first time in counseling see you know what this was like for you{QUO}
+P: yeah i think this yeah you know first time um so i don't really know what to expect but um yeah i think this'll be helpful you know i've always noticed that you know talking about it to anyone helps and so ^{META}
+T: yeah{FA} well and that's great to you know notice that talking about it helps and to take that step to come in here{SU} i think that's a really awesome you know step on your part {AF}um and i also you know like to check in at the end of um you know the first session and also sometimes throughout therapy as well um{GI} see is there anything that um either you know you found helpful and want to do more of or is there anything also that you know was unhelpful or off-putting and you know you'd like me to know that for the future so i can uh make sure not to do it{QUC}
+P: yeah uh well you know i really do like you know thinking about strategies because um i'm very much a believer in um i mean even if it's just a placebo but if you can think of something that i think this will work then it will work so i really think that's um good um as far as like i don't really like talking about like the things that are actually stressing me out because i really don't think they are rational so like i guess that's kind of like something that you know i feel like i think about it enough and i understand it completely so it's like it's kind of more something that i just really don't need to think about{ANX}{META}
+T: so not wanting to talk about the content{REC}
+P: yeah 'cause it's just kind of irrational so um yeah i guess{ANX}{META}
+T: yeah {FA}and i'm thanks for sharing that{AF} i'm curious if there's um like is it like uncomfortable to talk about that {QUC}or is there you know another i guess reason to figure out why ^{QUC}
+P: i guess the thing is it just it changes so much you know so it's like it's kind of more i feel like it's just kind of a symptom really it's not necessarily the cause i guess so that's kind of i mean like i said it fluctuates from so many different things on like a weekly basis that i mean sure i can mention you know i'll tell i can talk about it doesn't really bother me to talk about what's stressing me out that particular week but i just don't think like 'cause i always have this feeling it's like oh if i just get over this problem then all my problems will be solved but of course like that problem doesn't get solved but then something else comes that i'm worrying about the most so it's like it's kind of not really like a ^{ANX}{META}
+T: mm{FA} so what you're worrying about feels fairly transient{REC}
+P: yeah exactly{ANX}
+T: okay{FA} thank i think that helps me to understand where you're coming from with that{GI} i'll say that in working with some of this it can be helpful to have concrete examples and not necessarily be always talking in the abstract {GI}um and i just want to make sure i understand where you're coming from as far as like what you would find helpful and unhelpful or you know what you might want and not want{GI} i'm wondering how you would feel about you know bringing in some of these um anxious thoughts as examples but not necessarily focusing on them that being ^{REC}
+P: sure no that's i mean that's fine{META}{ANX}
+T: okay {FA}that's mainly what i wanted to clarify{GI}
+P: yeah{META}{ANX}
+T: um so yeah{FA} we'll um you know continue to explore the anxiety in general might use some examples but you know not maybe dive deep into like when you mentioned for instance like the worry of you know might have gotten someone pregnant uh for instance that's not something we would you know go and explore in depth or things like that{REC}
+P: yeah{META}{ANX}
+T: okay yeah{FA} that's helpful to know{GI}
+P: yeah{META}
+T: okay{FA} and in general too you know sometimes i'll check in you know to see you know how things are going{ST} um also you know i really want to invite you at any point to share feedback as well so ^{EC}
+P: okay{META}
+T: um you know both if you're like oh that was really helpful let's do more of that and also if you're like that really wasn't helpful and um let's not do that again{GI} or you know things like that i really you know um invite your feedback for that at any time{EC}
+P: okay sounds good{META}
+T: all right well shall we schedule a next session{FI}
+P: uh sure yeah{CAL}
+T: great oops okay when do you head out for thanksgiving{FI}
+P: i leave on wednesday{OTHER}
+T: ah okay cool um all right so generally i see people about every like two weeks um i do have this time uh available on um november thirtieth which is two weeks ago{FI}
+P: yeah{CAL}
+T: does that sound good or{FI}
+P: that's perfect yeah this time works really well for me{CAL}
+T: so i will put you in for then{FI}
+P: okay and then do i have to go pay up at the front desk is that{CAL}
+T: um if you haven't paid yet then yeah{FI}
+P: okay{CAL}
+T: yeah you'd want to go up there and do that{FI}
+P: okay{CAL}
+T: okay{FI}
+P: all right{CAL}
+T: well it was great to meet you ^{FI}
+P: yeah it was nice meeting you as well{OTHER}
+T: i want to acknowledge [du] you know hour ago i was a complete stranger so it can take you know courage to open up about you know what's going on with your life with someone completely new so ^{SU}
+P: all right well thanks{OTHER}
+T: yeah thanks for sharing stuff with me and i look forward to seeing you in a couple weeks{FI}
+P: all right sounds good{CAL}
+T: have a nice uh thanksgiving holiday{FI}
+P: thanks you too{OTHER}
+T: take care{FI}
